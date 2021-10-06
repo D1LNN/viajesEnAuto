@@ -1,0 +1,4 @@
+*Unificar idea de muerto / no saludable, para faciliar ataques y sustos
+*Agregar nuevo monstruo
+incorporar la idea de lugar, por ejemplo casa abandonada, un parque de divesiones y que en ese lugar hay uno de los mostruos y que cuanto alguien lo *visita, dicho monstruo lo ataca o asusta, segun corresponda
+hacer/arreglar  tests
